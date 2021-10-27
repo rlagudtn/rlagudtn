@@ -1,5 +1,5 @@
 ### Hi there👋 I'm backend developer using spring framework. 
-### Although now I'm novice, but later I want to be software engineer.🤔
+### Although now I'm novice, but later I want to be software engineer :)
 
 ## Tech Stack
 
