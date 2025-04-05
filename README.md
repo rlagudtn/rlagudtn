@@ -1,26 +1,29 @@
-### 안녕하세요. 이전에 시스템과 프론트엔드 프로젝트를 진행했었고
-### 현재 Spring 프레임워크와 JPA를 사용하여 백엔드 개발을 진행하고 있습니다
-### 계속해서 공부하여 개발능력을 쌓고 이를 통해 다른 사람들에게 도움을 주는 사람이고 싶습니다😊
+## 안녕하세요. 백엔드 개발자 김형수입니다👋
+고객 중심의 서비스를 위해 효율적인 데이터 처리와 시스템을 구축하는 것을 중요하게 생각합니다.
+### 💻 Experience
+- Blog Booster 솔루션 외주(2024.04 ~ 2024.08)
+- 알루미늄 제조업체 MES 외주(2023.01 ~ 2023.04)
+- 숭실대학교 MISYS Lab 인턴 (2020.12 ~ 2021.06)
 
-## Tech Stack
+### ✏️ Education
+- 삼성 청년 SW 아카데미(SSAFY) 13기 (2025.01 ~ )
+- SW 마에스트로 13기(22.04 ~ 22.11)
+- 숭실대학교 AI융합학부 학사 (2016.03 ~ 2025.02)
 
-### Languages
-<!-- c++ -->
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/><!-- js -->
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/><!-- java -->
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/><!-- python -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
-### Framework
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/><!-- React -->
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/><!-- ROS -->
-<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/>
+### ⚙️ Tech Stack
+<b>Strong</b>
+<!-- Java -->
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Etc
-<!-- slack -->
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/><!-- Github -->
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><!-- Git -->
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<b>Knowledgeable</b>
+<!-- Infra -->
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+<!-- Backend -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) 
+<!-- Frontent -->
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+
 
 
 <!--
